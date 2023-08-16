@@ -243,3 +243,19 @@ article {
   letter-spacing: -1rem;
   margin-bottom: 15px;
 }
+footer {
+  text-align: center;
+  font-family: Didact;
+  font-size: 10rem;
+  font-weight: 200;
+  line-height: 30vh;
+  margin-top: 100px;
+}
+ol a {
+  text-decoration: none;
+  color: black;
+  transition: 3ms;
+}
+ol a:hover {
+  text-decoration: underline;
+}
